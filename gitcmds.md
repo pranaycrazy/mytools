@@ -1,4 +1,4 @@
-//GIT COMMANDS
+## //GIT COMMANDS
 sudo su
 apt update
 apt install git -y
